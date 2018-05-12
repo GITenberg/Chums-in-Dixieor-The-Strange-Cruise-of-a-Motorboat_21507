@@ -1,0 +1,35 @@
+_repo: Chums-in-Dixieor-The-Strange-Cruise-of-a-Motorboat_21507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    aliases:
+    - Old Broadbrim
+    - Adams, Harrison
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/45240
+    - http://en.wikipedia.org/wiki/St._George_Rathborne
+    - http://www.gutenberg.org/ebooks/author/4161
+    - http://www.gutenberg.org/ebooks/author/2624
+description: ''
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcsh 'Florida -- Juvenile fiction'
+title: Chums in Dixie; or, The Strange Cruise of a Motorboat
+url: http://www.gutenberg.org/ebooks/21507

@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/4161
     - http://www.gutenberg.org/ebooks/author/2624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21507#Chums-in-Dixieor-The-Strange-Cruise-of-a-Motorboat
 gutenberg_issued: '2007-05-17'
 gutenberg_type: Text
 identifiers:
